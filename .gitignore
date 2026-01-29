@@ -1,5 +1,5 @@
 # Gemini
-GEMINI.md
-.gemini/*
+./GEMINI.md
+./gemini/*
 
-./resources/*
+resources/*

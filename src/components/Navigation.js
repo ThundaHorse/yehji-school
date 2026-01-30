@@ -11,12 +11,12 @@ export function initNavigation() {
                 <span></span>
             </button>
             <nav id="main-nav">
-                <a href="/index.html">Home</a>
-                <a href="/outcomes.html">Outcomes</a>
-                <a href="/assignments.html">Assignments</a>
-                <a href="/schedule.html">Schedule</a>
-                <a href="/resources.html">Resources</a>
-                <a href="/expectations.html">Expectations</a>
+                <a href="/yehji-school/index.html">Home</a>
+                <a href="/yehji-school/outcomes.html">Outcomes</a>
+                <a href="/yehji-school/assignments.html">Assignments</a>
+                <a href="/yehji-school/schedule.html">Schedule</a>
+                <a href="/yehji-school/resources.html">Resources</a>
+                <a href="/yehji-school/expectations.html">Expectations</a>
             </nav>
         </div>
     </header>

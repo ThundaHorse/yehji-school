@@ -10,7 +10,7 @@
     --link-hover: #2980b9;
     --border-color: #e1e4e8;
     --shadow-color: rgba(0, 0, 0, 0.05);
-    
+
     /* Spacing */
     --container-padding: 50px;
     --section-margin: 30px;
@@ -269,7 +269,7 @@ nav a:hover {
     }
 
     body {
-        padding: 10px;
+        padding: 0;
     }
 
     .container {
